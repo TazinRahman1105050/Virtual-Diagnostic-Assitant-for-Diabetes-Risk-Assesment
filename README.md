@@ -1,3 +1,5 @@
+# # NVIDIA Agent Toolkit Hackathon: Virtual-Diagnostic-Assistant-for_DIabetes_Risk_Assesment
+
 This project presents a multi-agent, NVIDIA Agent Intelligence toolkit-powered diagnostic assistant designed to generate professional medical reports/prescriptions based on patient data for diabetes risk assessment. Built using NVIDIA’s Agentic AI infrastructure—including the NeMo framework and NIM APIs—the system demonstrates intelligent planning, multimodal input handling, and contextual reasoning through retrieval-augmented generation (RAG).
 
 Key features:
