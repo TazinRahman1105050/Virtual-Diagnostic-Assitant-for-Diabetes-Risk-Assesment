@@ -17,8 +17,8 @@ Key features:
  4. https://openai.com/
 
 
-
 # # Dependencies:
+* Install Nvidia NeMo and NIM from nvidia open-source links
 * pip install streamlit sentence-transformers faiss-cpu PyPDF2 nim
 * pip install langchain-openai langchain-community langchain sentence-transformers faiss-cpu
 * pip install pytesseract pillow
@@ -27,3 +27,10 @@ Key features:
 
 * Export API keys: In this application, I have used nvidia/neva-22b. the command used is "export NIM_API_KEY = "your api key"". I got the api key from https://build.nvidia.com/explore/retrieval
 
+# # Exceute:
+* Run index_files.py to index the
+
+* Run app: python 
+
+# # Support
+For any questions, contact: tazinrahman158@gmail.com
