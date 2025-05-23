@@ -28,7 +28,7 @@ Key features:
 * Export API keys: In this application, I have used nvidia/neva-22b. the command used is "export NIM_API_KEY = "your api key"". I got the api key from https://build.nvidia.com/explore/retrieval
 
 # # Exceute:
-* Run index_files.py to index the 
+* Run index_documents_openAI.py to index the files in RAG/data/ folder 
 
 * Run app: python app_multi_agent_report.py (Frontend file)
 
