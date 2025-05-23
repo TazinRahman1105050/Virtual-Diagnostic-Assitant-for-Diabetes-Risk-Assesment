@@ -10,7 +10,15 @@ Key features:
 ![Screenshot from 2025-05-23 09-20-10](https://github.com/user-attachments/assets/72c03f22-ebed-4224-889d-c20fc3a333f8)
 
 
-# Virtual-Diagnostic-Assitant-for-Diabetes-Risk-Assesment
+ Acknowledegment:
+ 1. https://developer.nvidia.com/agent-intelligence-toolkit
+ 2. https://build.nvidia.com/explore/discover
+ 3. https://build.nvidia.com/explore/retrieval
+ 4. https://openai.com/
+
+
+
+# # Dependencies:
 pip install streamlit sentence-transformers faiss-cpu PyPDF2 nim
 pip install langchain-openai langchain-community langchain sentence-transformers faiss-cpu streamlit
 pip install pytesseract pillow
@@ -19,4 +27,4 @@ pip install streamlit
 pip install streamlit sentence-transformers faiss-cpu PyPDF2 nim
  pip install langchain-openai langchain-community langchain sentence-transformers faiss-cpu streamlit
  pip install langchain langchain-openai openai
- 
+
